@@ -1,0 +1,50 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+*.g.dart
+
+# Android
+*.iml
+.gradle/
+local.properties
+android/.gradle
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/*.iml
+android/app/release/
+
+# IDE
+.idea/
+*.suo
+*.user
+.vs/
+.vscode/settings.json
+
+# Assets – add your model file but don't commit large binaries
+# assets/models/yolomodel.tflite  <- add this line if you don't want to commit the model
+
+# Android - Gradle build output
+.gradle/
+build/
+**/build/
+
+# Local SDK path (machine-specific)
+local.properties
+
+# Android Studio IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Large ML model file
+app/src/main/assets/models/*.tflite
+
+# OS files
+.DS_Store
+Thumbs.db

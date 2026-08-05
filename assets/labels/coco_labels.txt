@@ -1,0 +1,44 @@
+person
+bicycle
+car
+motorcycle
+bus
+truck
+traffic light
+stop sign
+parking meter
+bench
+bird
+cat
+dog
+backpack
+umbrella
+handbag
+suitcase
+kite
+bottle
+cup
+knife
+banana
+apple
+orange
+cake
+chair
+couch
+potted plant
+bed
+dining table
+toilet
+tv
+laptop
+mouse
+remote
+keyboard
+cell phone
+book
+clock
+scissors
+teddy bear
+toothbrush
+door
+stairs

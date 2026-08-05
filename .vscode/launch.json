@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Drushti (debug)",
+            "request": "launch",
+            "type": "dart",
+            "args": ["--no-sound-null-safety"]
+        },
+        {
+            "name": "Drushti (profile)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Drushti (release)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
